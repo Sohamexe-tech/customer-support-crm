@@ -1,9 +1,2 @@
-__pycache__/
-*.py[cod]
-*.log
-.env
-.venv/
-instance/
-.idea/
-.vscode/
-*.sqlite3
+.env 
+__pycache__/ 
